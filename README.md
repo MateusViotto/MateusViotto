@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Bem-vindo ao meu perfil do GitHub!
 
 ![GIF](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
