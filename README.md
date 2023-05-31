@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # Bem-vindo ao meu perfil do GitHub!
 
-![GIF]([https://media.giphy.com/media/xUPGcgtTOf5yFwV2FO/giphy.gif](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif))
+![GIF](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
 
