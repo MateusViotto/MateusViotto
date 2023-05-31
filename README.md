@@ -1,4 +1,5 @@
-### Python, coffee and cats 😸
+### Python, coffee and cats 😸![image](https://github.com/MateusViotto/MateusViotto/assets/96631827/67e22177-1e58-41d3-9751-d0edf3b45b99)
+
 
 <!--
 **MateusViotto/MateusViotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
